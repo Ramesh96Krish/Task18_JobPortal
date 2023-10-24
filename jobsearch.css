@@ -1,0 +1,15 @@
+#appendToBody{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+img{
+    display: inline;
+}
+.image{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: gray;
+}
+p{
+    font-weight: bold;
+}
